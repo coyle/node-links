@@ -16,6 +16,9 @@
 12. [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)[1:06:33]
 13. [Jeff Harrell **9 Anti-Patterns for Node.js Teams**](https://www.youtube.com/watch?v=6phif2t-wj0)[22:34]
 14. [Eric Elliot **Classical Inheritance is Obsolete - How to Think in Prototypal OO**](http://vimeo.com/69255635)[43:18]
+15. [Nicholas C. Zakas **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834)[47:04]
+16. [Angus Croll **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo)[31:29]
+17. [Alex Russell **Learning to Love JavaScript**](https://www.youtube.com/watch?v=seX7jYI96GE)[1:03:25]
 
 ## Blogs/articles
 1. [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
@@ -23,7 +26,8 @@
 3. [You Don't Know JS: this & Object Prototypes pt.2](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md)
 4. [Unit Test like a Secret Agent with Sinon.js](http://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/)
 5. [The Two Pillars of JavaScript Part 1: How to Escape the 7th Circle of Hell](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
-6. 
+6. [Immediately-Invoked Function Expression (IIFE)](http://benalman.com/news/2010/11/immediately-invoked-function-expression/)
+7. [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
 
 ## Tutorials
 1. [Enforcing Coding Rules Im Your Team With JSCS](https://yannick.cr/posts/enforcing-coding-rules-in-your-team-with-jscs/post)
@@ -37,6 +41,8 @@
 
 ## Books
 1. [Javascript the Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
+2. [Programming JavaScript Applications: Robust Web Architecture with Node, HTML5, and Modern JS Libraries](http://www.amazon.com/Programming-JavaScript-Applications-Architecture-Libraries-ebook/dp/B00LAHNPUE/ref=dp_kinw_strp_exp_4_1)
+3. [Javascript Allongé](http://www.amazon.com/Javascript-Allong%C3%A9-Reginald-Braithwaite-ebook/dp/B00FLKRCVO/)
 
 ## Misc.
 
